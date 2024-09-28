@@ -1,0 +1,20 @@
+[pyprland]
+plugins = [
+    "expose",
+    "fetch_client_menu",
+    # "gbar",
+    "layout_center",
+    "lost_windows",
+    "magnify",
+    # "monitors",
+    "scratchpads",
+    # "shift_monitors",
+    "shortcuts_menu",
+    "system_notifier",
+    # "toggle_dpms",
+    "toggle_special",
+    # "wallpapers",
+    "workspaces_follow_focus",
+]
+
+include = ["~/.config/hypr/pyprland.d/"]

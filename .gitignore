@@ -1,0 +1,8 @@
+# why was this file created
+# in the hypr config folder?
+gsettings
+
+
+# these binaries may not be compatible with the host system.
+# they should be installed manually.
+.config/hypr/plugins/*
