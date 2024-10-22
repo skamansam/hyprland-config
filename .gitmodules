@@ -1,0 +1,6 @@
+[submodule ".config/ags-config"]
+	path = .config/ags-config
+	url = https://github.com/skamansam/ags-config.git
+[submodule ".config/ags"]
+	path = .config/ags
+	url = https://github.com/skamansam/ags-config.git
